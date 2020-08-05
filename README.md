@@ -80,7 +80,7 @@ further process.
 * Tracking Changes, Preparing Reports and Updating Documents.
 
 # Project Name: Engineering Policy & Extensions (Dec 2015 – Dec 2016)
-Role : Junior Business Analyst
+Designation : Junior Business Analyst
 ## Description:
 * Engineering Policy is mainly using for construction side to insure their projects with insurance companies.
 * Once the project awarded to site, they can enquires with insurance dept. regarding elaborated details.
@@ -97,7 +97,7 @@ Role : Junior Business Analyst
 * Analyzing the change request and coordinating the changes required with the development team.
 
 # Project Name: Engineering Claims (Dec 2015 – Dec 2016)
-Role : Junior Business Analyst
+Designation : Junior Business Analyst
 ## Description:
 * Once the site is affecting by any external threats or any other disaster factors it will come for claim.
 * Site has to give a request to insurance department for claiming the area.
