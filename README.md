@@ -1,4 +1,6 @@
-### Hi I am a Techie 👋
+### Vigneshwaran G
+## Chennai, India | +91-8015164658
+## gopalakrishnan.vignesh@gmail.com | https://www.linkedin.com/in/vigneshwaran92/
 
 🔭 I’m currently working on Software Products
 
