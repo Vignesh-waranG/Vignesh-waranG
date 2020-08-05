@@ -32,7 +32,7 @@
 
 # Current Employer: Exela Technologies (SourceHov India). (Dec 2018 – Till Date)
 Designation : Test Analyst.
-Product Name: Bancpay (Exela Procure to Pay) (Dec 2018 – Till Date)
+# Product Name: Bancpay (Exela Procure to Pay) (Dec 2018 – Till Date)
 ## Description:
 * BancPay provides a range of cloud-based invoicing services that allow organizations
 to connect, transact, collaborate, and manage their businesses in an easy and simple manner.
@@ -47,7 +47,7 @@ to connect, transact, collaborate, and manage their businesses in an easy and si
 
 # Previous Employer: Larsen and Toubro Construction Limited. (Dec 2015 – Dec 2018)
 Designation : Software Engineer.
-Project Name: Site Hired Vehicle Services (Dec 2016 – Dec 2018)
+# Project Name: Site Hired Vehicle Services (Dec 2016 – Dec 2018)
 ## Description:
 * Site Hired Vehicle Service is mainly for site person in various construction areas.
 * Site can hire a vehicle and transfer workers from various places.
@@ -113,9 +113,9 @@ Role : Junior Business Analyst
 
 # ACADEMICS
 
-## B.Tech (CSE) 	SASTRA(Shanmugha Arts, Science, Technology & Research Academy) University 	University 	2015 	64%
-## XII 	St. Jude’s Matriculation Higher Secondary School 	State Board 	2011 	83%
-## X 	St. Jude’s Matriculation Higher Secondary School 	Matriculation 	2009 	82%
+* B.Tech (CSE) 	SASTRA(Shanmugha Arts, Science, Technology & Research Academy) University 	University 	2015 	64%
+* XII 	St. Jude’s Matriculation Higher Secondary School 	State Board 	2011 	83%
+* X 	St. Jude’s Matriculation Higher Secondary School 	Matriculation 	2009 	82%
 
 # ACHIEVEMENTS & TRAINING
 
