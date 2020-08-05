@@ -33,7 +33,7 @@
 Current Employer: Exela Technologies (SourceHov India). (Dec 2018 – Till Date)
 Designation : Test Analyst.
 Product Name: Bancpay (Exela Procure to Pay) (Dec 2018 – Till Date)
-##Description:
+## Description:
 * BancPay provides a range of cloud-based invoicing services that allow organizations
 to connect, transact, collaborate, and manage their businesses in an easy and simple
 manner.
@@ -41,7 +41,7 @@ manner.
 of different types such as paper, PDF, scanned images, and electronic form.
 * BancPay allows you to track your invoices from submission till payment. It also helps
 you improve your cash flow by opting for dynamic discounting functionalities.
-##Responsibilities:
+## Responsibilities:
 * Understanding the requirement documents and obtaining clarity from the Dev team.
 * Deriving Test Scenarios, Documenting Test Cases and Collecting Test Data for
 Functional Testing.
@@ -49,10 +49,10 @@ Functional Testing.
 * Working with agile team to release features on sprint basis.
 * Creating Test Scenarios, Executing Test Cases and Reporting Defects.
 
-#Previous Employer: Larsen and Toubro Construction Limited. (Dec 2015 – Dec 2018)
+# Previous Employer: Larsen and Toubro Construction Limited. (Dec 2015 – Dec 2018)
 Designation : Software Engineer.
 Project Name: Site Hired Vehicle Services (Dec 2016 – Dec 2018)
-#Description:
+## Description:
 * Site Hired Vehicle Service is mainly for site person in various construction areas.
 * Site can hire a vehicle and transfer workers from various places.
 * During travel time, they can use the vehicle and create work orders and bills for the
@@ -61,7 +61,7 @@ trip in systems.
 manner for easy tracking.
 * If any rejection/ cancellation happens hire amount can return to the work orders for
 further process.
-#Responsibilities:
+## Responsibilities:
 * Understanding the requirement documents and obtaining clarity from the Dev team.
 * Deriving Test Scenarios, Documenting Test Cases and Collecting Test Data for
 Functional Testing.
@@ -71,7 +71,7 @@ Functional Testing.
 * Used Maven to build and run the Selenium automation framework. Once the script
 gets completed, framework used to send the automation reports over email.
 
-#Project Name: High Speed Diesel – Procurement (Dec 2016 – Dec 2018)
+# Project Name: High Speed Diesel – Procurement (Dec 2016 – Dec 2018)
 Description:
 * HSD is mainly developed for procurement in project sites.
 * User need to create the request for either bulk/ retail.
@@ -80,7 +80,7 @@ diesel with the help of fleet card.
  IOCL, BPCL be the major partner for providing diesel through bulk mode.
 * Based on cumulative value for the whole month company has to settle the amount.
 * Because of bulk Mode Company get more revenue easily.
-#Responsibilities:
+## Responsibilities:
 * Understanding the requirement documents and obtaining clarity from the Dev team.
 * Deriving Test Scenarios, Documenting Test Cases and Collecting Test Data for
 Functional Testing.
@@ -89,9 +89,9 @@ Functional Testing.
 * Creating Test Batches, Executing Test Cases and Reporting Defects.
 * Tracking Changes, Preparing Reports and Updating Documents.
 
-#Project Name: Engineering Policy & Extensions (Dec 2015 – Dec 2016)
+# Project Name: Engineering Policy & Extensions (Dec 2015 – Dec 2016)
 Role : Junior Business Analyst
-#Description:
+Description:
 * Engineering Policy is mainly using for construction side to insure their projects with
 insurance companies.
 * Once the project awarded to site, they can enquires with insurance dept. regarding
@@ -100,7 +100,7 @@ elaborated details.
 project.
 * Premium can be pay as Onetime, Half-Yearly and Annual.
 * Insurance companies can send the policy copy, if they get the payment successfully.
-#Responsibilities:
+## Responsibilities:
 * Study current state of the processes. Prepare AS-IS process map and TO-BE scenario.
 * Interacting with the client for requirement gathering, designing and reporting.
 * Creating Use Cases, User Interface Designs and System-to-System Interfaces.
@@ -111,7 +111,7 @@ Functional requirements.
 * Analyzing the change request and coordinating the changes required with the
 development team.
 
-#Project Name: Engineering Claims (Dec 2015 – Dec 2016)
+# Project Name: Engineering Claims (Dec 2015 – Dec 2016)
 Role : Junior Business Analyst
 Description:
 * Once the site is affecting by any external threats or any other disaster factors it will
@@ -123,13 +123,39 @@ company.
 * Insurance company sends a surveyor to site for reviewing the affected portion.
 * Finally, insurance company releases the claim amount to insurance dept., dept. send
 to affected site.
-#Responsibilities:
+## Responsibilities:
 * Study the current state of the processes. Prepare the AS-IS process map and the TOBE
 scenario.
 * Interacting with the client for requirement gathering, designing and reporting.
 * Preparing test scenarios. Work with the testing team to prepare the testing plan,
 scope and other relevant documents and reviewing the test cases prepared.
 * Preparing Table Structures with R&D team for successful database.
+
+
+# ACADEMICS
+
+## B.Tech (CSE) 	SASTRA(Shanmugha Arts, Science, Technology & Research Academy) University 	University 	2015 	64%
+## XII 	St. Jude’s Matriculation Higher Secondary School 	State Board 	2011 	83%
+## X 	St. Jude’s Matriculation Higher Secondary School 	Matriculation 	2009 	82%
+
+# ACHIEVEMENTS & TRAINING
+
+*	HALL OF FAME award for the High Speed Diesel (Procurement Project) in Oct 2018.
+*	SCRUM FUNDAMENDALS CERTIFIED (SFC) – Issued by SCRUMStudy.
+
+# PERSONAL INFORMATION
+
+Fathers Name	       : Gopalakrishnan S.
+Date of Birth (DOB)	: 26.12.1992.
+Passport Number	    : K3737966 (Valid until 09-04-2023).
+
+
+
+
+Date:
+Place:	                                                                           (VIGNESHWARAN G)
+
+
 
 
 🌱 I’m currently learning on Test Automation tools as Selenium to enhance my skills also learning Scrum Master
